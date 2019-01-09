@@ -7,6 +7,8 @@ public class Test1001 {
           System.out.println("0000000000");
           System.out.println("0000000000");
           System.out.println("0000000000");
+          System.out.println("0000000000");
+          System.out.println("0000000000");
 	}
 
 }
